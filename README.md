@@ -24,25 +24,10 @@
 
 <h3>✌️ About me</h3>
 
-<table width="100% !important">
-  <tbody>
- <tr>
-   <td width="50%">
-
-#### 
-
 - 🇪🇸 Living in Barcelona, ES
 - 🗿 3D printing stuff
 - 🎮 Loves playing [Osu!](https://osu.ppy.sh/home) & [The binding of Isaac](https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki)
 - 😁 Nice to meet you!
-
-
-</td>
-
-</tr>
-
-  </tbody>
-</table>
 
 ---
 
