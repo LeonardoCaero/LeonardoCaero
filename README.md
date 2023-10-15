@@ -26,7 +26,7 @@
 
 - 🇪🇸 Living in Barcelona, ES
 - 🗿 3D printing stuff
-- 🎮 Loves playing [Osu!](https://osu.ppy.sh/home) & [The binding of Isaac](https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki)
+- 🎮 Loves playing [Osu!](https://osu.ppy.sh/home) & [The binding of Isaac](https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki) & [R6 Siege](https://www.ubisoft.com/es-es/game/rainbow-six/siege)
 - 😁 Nice to meet you!
 
 ---
