@@ -20,7 +20,7 @@
 
 <h3>✌️ About me</h3>
 
-- 🇪🇸 Living in Barcelona, ES
+- 🇯🇵 Living in Suzuka, JP 
 - 🗿 3D printing stuff
 - 🎮 Loves playing [Osu!](https://osu.ppy.sh/home) & [The binding of Isaac](https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki) & [League of Legends](https://www.leagueoflegends.com/es-es/)
 - 😁 Nice to meet you!
